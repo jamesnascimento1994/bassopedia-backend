@@ -1,0 +1,1 @@
+web: gunicorn bass_django.wsgi
