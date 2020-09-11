@@ -13,6 +13,7 @@ djangorestframework = "*"
 whitenoise = "*"
 dj-database-url = "*"
 gunicorn = "*"
+djangorestframework-simplejwt = "*"
 
 [requires]
 python_version = "3.8"
